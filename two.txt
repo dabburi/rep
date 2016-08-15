@@ -2,5 +2,3 @@ Hello first file
 
 Second line of first file
 
-Third line
-Mistake 
